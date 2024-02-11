@@ -43,12 +43,14 @@ nav a:hover {
     background-color: #00518f;
     color: white;
     text-decoration: none;
+    font-size: 18px;
 }
 .book:hover, .join:hover {
     background-color: #00518f; 
 }
 .msg {
-    background-color: #00a8e8; 
+    background-color: #00a8e8;
+    line-height: 1.5em;
 }
 footer {
     background-color: #f68e5f; 
